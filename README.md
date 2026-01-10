@@ -62,6 +62,7 @@ My leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
@@ -105,4 +106,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
