@@ -32,6 +32,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ikemal12/leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/ikemal12/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +115,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ikemal12/leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ikemal12/leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
