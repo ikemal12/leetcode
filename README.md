@@ -63,10 +63,12 @@ My leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -77,6 +79,7 @@ My leetcode solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
