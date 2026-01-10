@@ -6,10 +6,10 @@ class Solution:
         l, r = 1, n
         while l <= r:
             m = (l + r) // 2
-            if isBadVersion(m) and not isBadVersion(m-1):
-                return m
-            elif isBadVersion(m) and isBadVersion(m-1):
+            if isBadVersion(m):
                 r = m - 1
-            elif not isBadVersion(m) and not isBadVersion(m-1):
+            else:
                 l = m + 1
+        return l
+
         
