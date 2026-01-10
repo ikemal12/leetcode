@@ -44,6 +44,7 @@ My leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -97,4 +98,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
