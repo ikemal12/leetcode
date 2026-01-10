@@ -24,6 +24,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ikemal12/leetcode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ikemal12/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ikemal12/leetcode/tree/master/0383-ransom-note) |
@@ -113,6 +114,7 @@ My leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -130,4 +132,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
