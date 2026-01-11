@@ -9,6 +9,7 @@ My leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
@@ -48,6 +49,7 @@ My leetcode solutions
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ikemal12/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/ikemal12/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -162,6 +165,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
