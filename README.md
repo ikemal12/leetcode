@@ -11,6 +11,7 @@ My leetcode solutions
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/ikemal12/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ikemal12/leetcode/tree/master/0409-longest-palindrome) |
+| [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ My leetcode solutions
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
+| [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,4 +170,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 <!---LeetCode Topics End-->
