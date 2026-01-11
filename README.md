@@ -8,6 +8,7 @@ My leetcode solutions
 | [0011-container-with-most-water](https://github.com/ikemal12/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ikemal12/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/ikemal12/leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
