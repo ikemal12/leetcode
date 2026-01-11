@@ -18,6 +18,7 @@ My leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/ikemal12/leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
@@ -32,6 +33,7 @@ My leetcode solutions
 | [0020-valid-parentheses](https://github.com/ikemal12/leetcode/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ikemal12/leetcode/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ikemal12/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -144,6 +146,7 @@ My leetcode solutions
 | ------- |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 ## Memoization
 |  |
 | ------- |
