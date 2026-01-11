@@ -7,6 +7,7 @@ My leetcode solutions
 | [0001-two-sum](https://github.com/ikemal12/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ikemal12/leetcode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
@@ -21,6 +22,7 @@ My leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/ikemal12/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ikemal12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
@@ -36,6 +38,7 @@ My leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/ikemal12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ikemal12/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ikemal12/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ikemal12/leetcode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -62,6 +65,7 @@ My leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
