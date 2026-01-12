@@ -21,6 +21,7 @@ My leetcode solutions
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 ## Hash Table
 |  |
@@ -141,6 +142,7 @@ My leetcode solutions
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,6 +175,7 @@ My leetcode solutions
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 ## Interactive
 |  |
 | ------- |
