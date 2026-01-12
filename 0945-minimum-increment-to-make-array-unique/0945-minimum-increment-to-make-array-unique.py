@@ -1,5 +1,18 @@
 class Solution:
     def minIncrementForUnique(self, nums: List[int]) -> int:
+        # counting
+        count = Counter(nums)
+        res = 0
+
+        for i in range(len(nums) + max(nums)):
+            if count[i] > 1:
+                extra = count[i] - 1
+                count[i + 1] += extra
+                res += extra
+ 
+        return res
+
+        # sorting and two pointer
         nums.sort()
         res = 0
 
@@ -7,5 +20,5 @@ class Solution:
             if nums[i - 1] >= nums[i]:
                 res += 1 + nums[i - 1] - nums[i]
                 nums[i] = nums[i - 1] + 1
-                
+
         return res
