@@ -11,6 +11,7 @@ My leetcode solutions
 | [0056-merge-intervals](https://github.com/ikemal12/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
@@ -76,6 +77,7 @@ My leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
