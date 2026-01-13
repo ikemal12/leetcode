@@ -60,6 +60,7 @@ My leetcode solutions
 | [0443-string-compression](https://github.com/ikemal12/leetcode/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/ikemal12/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1446-consecutive-characters](https://github.com/ikemal12/leetcode/tree/master/1446-consecutive-characters) |
 ## Stack
 |  |
 | ------- |
