@@ -114,6 +114,7 @@ My leetcode solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ikemal12/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ikemal12/leetcode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/ikemal12/leetcode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ My leetcode solutions
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0326-power-of-three](https://github.com/ikemal12/leetcode/tree/master/0326-power-of-three) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
 ## Memoization
 |  |
