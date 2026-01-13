@@ -122,6 +122,7 @@ My leetcode solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/ikemal12/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -131,6 +132,7 @@ My leetcode solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/ikemal12/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -141,6 +143,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/ikemal12/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
@@ -150,6 +153,7 @@ My leetcode solutions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/ikemal12/leetcode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
