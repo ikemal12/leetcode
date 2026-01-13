@@ -41,6 +41,7 @@ My leetcode solutions
 | [0438-find-all-anagrams-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
@@ -61,6 +62,7 @@ My leetcode solutions
 | [0657-robot-return-to-origin](https://github.com/ikemal12/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1446-consecutive-characters](https://github.com/ikemal12/leetcode/tree/master/1446-consecutive-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
