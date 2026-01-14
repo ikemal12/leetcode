@@ -10,6 +10,7 @@ My leetcode solutions
 | [0039-combination-sum](https://github.com/ikemal12/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ikemal12/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ikemal12/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -192,6 +193,7 @@ My leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ikemal12/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
@@ -234,6 +236,7 @@ My leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ikemal12/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/ikemal12/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
