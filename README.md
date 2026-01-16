@@ -15,6 +15,7 @@ My leetcode solutions
 | [0056-merge-intervals](https://github.com/ikemal12/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ikemal12/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
@@ -233,6 +234,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ikemal12/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
