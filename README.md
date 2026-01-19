@@ -141,6 +141,7 @@ My leetcode solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -154,6 +155,7 @@ My leetcode solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -178,6 +180,7 @@ My leetcode solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
 |  |
@@ -271,4 +274,12 @@ My leetcode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/ikemal12/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ikemal12/leetcode/tree/master/0046-permutations) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
