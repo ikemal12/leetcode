@@ -8,6 +8,7 @@ My leetcode solutions
 | [0011-container-with-most-water](https://github.com/ikemal12/leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ikemal12/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ikemal12/leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ikemal12/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ikemal12/leetcode/tree/master/0046-permutations) |
@@ -106,6 +107,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/ikemal12/leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
