@@ -1,5 +1,34 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        count, majorityElem = 0, nums[0]
+
+        for num in nums:
+            if num == majorityElem:
+                count += 1
+            else:
+                count -= 1
+            
+            if count < 0:
+                majorityElem = num
+                count = 0
+
+        return majorityElem
+
+        """[1, 1, 1, 2, 2, 2, 2]
+                           ^ """
+
+
+
+
+
+
+
+
+
+
+
+
+
         # optimal solution with O(1) space
         res, count = 0, 0
 
