@@ -2,6 +2,43 @@ class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         l, r = 0, 1
         maxP = 0
+
+        while r < len(prices):
+            profit = prices[r] - prices[l]
+            if profit < 0:
+                l = r
+            else:
+                maxP = max(maxP, profit)
+            r += 1
+        return maxP
+
+
+        """[7,1,5,3,6,4]
+         ^ ^
+
+        maxP = 0
+        for i in range(len(prices)):
+            for j in range(i, len(prices)):
+                profit = prices[j] - prices[i]
+                maxP = max(maxP, profit)
+        return maxP"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        l, r = 0, 1
+        maxP = 0
         while r < len(prices):
             if prices[r] > prices[l]:
                 profit = prices[r] - prices[l]
