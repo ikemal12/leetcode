@@ -232,6 +232,7 @@ My leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ikemal12/leetcode/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
