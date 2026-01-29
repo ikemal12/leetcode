@@ -40,6 +40,7 @@ My leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/ikemal12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ikemal12/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ikemal12/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ikemal12/leetcode/tree/master/0383-ransom-note) |
@@ -91,6 +92,7 @@ My leetcode solutions
 | [0125-valid-palindrome](https://github.com/ikemal12/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ikemal12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/ikemal12/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ikemal12/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ikemal12/leetcode/tree/master/0344-reverse-string) |
@@ -233,6 +235,7 @@ My leetcode solutions
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/ikemal12/leetcode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/ikemal12/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ikemal12/leetcode/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
