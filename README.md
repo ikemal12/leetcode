@@ -17,6 +17,7 @@ My leetcode solutions
 | [0054-spiral-matrix](https://github.com/ikemal12/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ikemal12/leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/ikemal12/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ikemal12/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ikemal12/leetcode/tree/master/0136-single-number) |
@@ -235,6 +236,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ikemal12/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ikemal12/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
