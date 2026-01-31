@@ -33,6 +33,7 @@ My leetcode solutions
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1470-shuffle-the-array](https://github.com/ikemal12/leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ikemal12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Hash Table
 |  |
@@ -323,4 +324,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ikemal12/leetcode/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ikemal12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
