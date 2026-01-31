@@ -1,5 +1,32 @@
 class Solution:
     def isValid(self, s: str) -> bool:
+        brackets = { "}":"{", "]":"[", ")":"("}
+        stack = []
+
+        for i in range(len(s)):
+            if s[i] == "]" or s[i] == "}" or s[i] == ")":
+                if stack and stack[-1] == brackets[s[i]]:
+                    stack.pop()
+                    continue
+            stack.append(s[i])
+        
+        return False if stack else True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         closeToOpen = { "}": "{", ")": "(", "]": "["}
         stack = []
 
