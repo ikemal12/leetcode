@@ -241,6 +241,7 @@ My leetcode solutions
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ikemal12/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/ikemal12/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ikemal12/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ikemal12/leetcode/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -273,6 +274,7 @@ My leetcode solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/ikemal12/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/ikemal12/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ikemal12/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ikemal12/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -310,4 +312,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ikemal12/leetcode/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ikemal12/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
