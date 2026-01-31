@@ -7,6 +7,10 @@ class Solution:
                 k += 1
         return k
 
+        """
+        [2,2,2,3]
+               k
+        """
 
 
 
