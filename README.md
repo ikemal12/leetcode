@@ -135,6 +135,7 @@ My leetcode solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ikemal12/leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ikemal12/leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/ikemal12/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
@@ -260,6 +261,7 @@ My leetcode solutions
 | [0009-palindrome-number](https://github.com/ikemal12/leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ikemal12/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/ikemal12/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ikemal12/leetcode/tree/master/0202-happy-number) |
