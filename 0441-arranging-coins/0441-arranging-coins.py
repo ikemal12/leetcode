@@ -12,6 +12,12 @@ class Solution:
                 l = m + 1
         return r
 
+        """
+        [1, 2, 3, 4, 5, 6, 7, 8]
+               r 
+                  l  
+        """
+
 
 
         count = 1
