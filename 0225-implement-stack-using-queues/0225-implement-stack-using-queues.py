@@ -12,22 +12,10 @@ class MyStack:
         n = len(self.q1)-1
         for i in range(n):
             val = self.q1.popleft()
-            self.push(val)
-            #if i == n - 1:
-                #self.topOfStack = val
-        return self.q1.popleft()
-
-
-        """while self.q1 and len(self.q1) > 1:
-            val = self.q1.popleft()
-            self.q2.append(val)
-            self.topofStack = val
-        res = self.q1.popleft()
-
-        while self.q2:
-            val = self.q2.popleft()
             self.q1.append(val)
-        return res"""
+            if i == n - 1:
+                self.topofStack = val
+        return self.q1.popleft()
 
     def top(self) -> int:
         return self.topofStack
