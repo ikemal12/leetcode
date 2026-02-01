@@ -30,6 +30,7 @@ My leetcode solutions
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0896-monotonic-array](https://github.com/ikemal12/leetcode/tree/master/0896-monotonic-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
