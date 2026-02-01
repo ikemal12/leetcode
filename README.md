@@ -130,6 +130,7 @@ My leetcode solutions
 | [0268-missing-number](https://github.com/ikemal12/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ikemal12/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0441-arranging-coins](https://github.com/ikemal12/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -254,6 +255,7 @@ My leetcode solutions
 | [0268-missing-number](https://github.com/ikemal12/leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ikemal12/leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ikemal12/leetcode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/ikemal12/leetcode/tree/master/0441-arranging-coins) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
 ## Memoization
 |  |
