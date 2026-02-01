@@ -83,6 +83,7 @@ My leetcode solutions
 | [0412-fizz-buzz](https://github.com/ikemal12/leetcode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ikemal12/leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/ikemal12/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/ikemal12/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/ikemal12/leetcode/tree/master/0796-rotate-string) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -334,6 +335,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/ikemal12/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/ikemal12/leetcode/tree/master/0796-rotate-string) |
 ## Hash Function
