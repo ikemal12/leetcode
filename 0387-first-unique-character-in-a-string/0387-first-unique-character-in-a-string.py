@@ -1,17 +1,13 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        counts = {}
+        counts = [0] * 26 
         for i, char in enumerate(s):
-            if char not in counts:
-                counts[char] = [1, i]
-            else:
-                counts[char][0] += 1
-        
-        first = len(s) 
-        for count, idx in counts.values():
-            if count == 1 and idx < first:
-                first = idx
-        return -1 if first == len(s) else first
+            counts[ord(char) - ord("a")] += 1
+
+        for i in range(len(s)):
+            if counts[ord(s[i]) - ord("a")] == 1:
+                return i
+        return -1
 
 
 
