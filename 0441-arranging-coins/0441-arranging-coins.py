@@ -1,5 +1,19 @@
 class Solution:
     def arrangeCoins(self, n: int) -> int:
+        l, r = 1, n 
+        while l <= r:
+            m = (l + r) // 2
+            coins = m*(m+1) // 2
+            if coins == n:
+                return m
+            elif n < coins:
+                r = m - 1
+            else:
+                l = m + 1
+        return r
+
+
+
         count = 1
         while n >= 0:
             n = n - count
