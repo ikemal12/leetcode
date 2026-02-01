@@ -29,6 +29,7 @@ My leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
@@ -157,6 +158,7 @@ My leetcode solutions
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
