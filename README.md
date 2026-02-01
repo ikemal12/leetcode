@@ -61,6 +61,7 @@ My leetcode solutions
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikemal12/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ My leetcode solutions
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1446-consecutive-characters](https://github.com/ikemal12/leetcode/tree/master/1446-consecutive-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Stack
 |  |
 | ------- |
@@ -231,6 +233,7 @@ My leetcode solutions
 | [0387-first-unique-character-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
+| [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -293,6 +296,7 @@ My leetcode solutions
 | [0136-single-number](https://github.com/ikemal12/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ikemal12/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikemal12/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
 |  |
