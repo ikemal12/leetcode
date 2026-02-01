@@ -9,12 +9,8 @@ class MyStack:
         self.topofStack = x
 
     def pop(self) -> int:
-        n = len(self.q1)-1
-        for i in range(n):
-            val = self.q1.popleft()
-            self.q1.append(val)
-            if i == n - 1:
-                self.topofStack = val
+        for i in range(len(self.q1) - 1):
+            self.push(self.q1.popleft())
         return self.q1.popleft()
 
     def top(self) -> int:
