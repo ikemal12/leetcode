@@ -229,6 +229,7 @@ My leetcode solutions
 | [0383-ransom-note](https://github.com/ikemal12/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
 ## Greedy
 |  |
 | ------- |
@@ -272,6 +273,7 @@ My leetcode solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ikemal12/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ikemal12/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -299,6 +301,7 @@ My leetcode solutions
 | [0412-fizz-buzz](https://github.com/ikemal12/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/ikemal12/leetcode/tree/master/0657-robot-return-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
 ## Monotonic Stack
 |  |
 | ------- |
