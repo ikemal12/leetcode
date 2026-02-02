@@ -1,5 +1,10 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        if k == len(nums): return nums
+        count = Counter(nums)
+        return heapq.nlargest(k, count.keys(), key=count.get)
+
+        """
         counts = {}
         for num in nums:
             counts[num] = 1 + counts.get(num, 0)
@@ -7,7 +12,7 @@ class Solution:
         counts = sorted(counts.items(), key=lambda x: x[1], reverse=True)
 
         res = [num for num, count in counts[:k]]
-        return res
+        return res"""
 
 
 
