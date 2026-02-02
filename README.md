@@ -10,6 +10,7 @@ My leetcode solutions
 | [0027-remove-element](https://github.com/ikemal12/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ikemal12/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/ikemal12/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ikemal12/leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ikemal12/leetcode/tree/master/0046-permutations) |
@@ -48,6 +49,7 @@ My leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/ikemal12/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ikemal12/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ikemal12/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ikemal12/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
@@ -259,6 +261,7 @@ My leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ikemal12/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/ikemal12/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
