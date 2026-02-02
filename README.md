@@ -66,6 +66,7 @@ My leetcode solutions
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3063-linked-list-frequency](https://github.com/ikemal12/leetcode/tree/master/3063-linked-list-frequency) |
 ## String
 |  |
 | ------- |
@@ -157,6 +158,7 @@ My leetcode solutions
 | [0206-reverse-linked-list](https://github.com/ikemal12/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ikemal12/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ikemal12/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [3063-linked-list-frequency](https://github.com/ikemal12/leetcode/tree/master/3063-linked-list-frequency) |
 ## Recursion
 |  |
 | ------- |
@@ -244,6 +246,7 @@ My leetcode solutions
 | [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3063-linked-list-frequency](https://github.com/ikemal12/leetcode/tree/master/3063-linked-list-frequency) |
 ## Greedy
 |  |
 | ------- |
