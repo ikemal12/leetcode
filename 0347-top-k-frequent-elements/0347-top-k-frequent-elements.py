@@ -4,28 +4,16 @@ class Solution:
         for num in nums:
             counts[num] = 1 + counts.get(num, 0)
 
-        res = [[] for _ in range(len(nums) + 1)]
+        buckets = [[] for _ in range(len(nums) + 1)]
         for num, count in counts.items():
-            res[count].append(num)
+            buckets[count].append(num)
         
-        counter = k
-        final = []
-        for i in range(len(res)-1, -1, -1):
-            if res[i] and counter > 0:
-                if len(res[i]) == 1:
-                    final.append(res[i][0])
-                    counter -= 1
-                else:
-                    for val in res[i]:
-                        if counter > 0:
-                            final.append(val)
-                            counter -= 1
-                
-
-                if counter <= 0:
-                    break
-
-        return final
+        res = []
+        for i in range(len(buckets)-1, 0, -1):
+            for val in buckets[i]:
+                res.append(val)
+                if len(res) == k:
+                    return res
 
         """
         [1,2,1,2,1,2,3,1,3,2], k=2
