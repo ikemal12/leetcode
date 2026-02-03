@@ -1,5 +1,47 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        seen = set()
+        maxL = 0
+        l = r = 0
+
+        while r < len(s):
+            if s[r] in seen:
+                while s[r] in seen:
+                    seen.remove(s[l])
+                    l += 1
+            maxL = max(maxL, r - l + 1)
+            seen.add(s[r])
+            r += 1
+        return maxL
+
+        """
+        "dvdf"
+          l
+             r
+         seen = [v, d, f]
+         maxL = 3
+        """
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         l = 0
         seen = set()
         maxL = 0
