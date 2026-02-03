@@ -2,11 +2,12 @@ class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         l = maxL = 0
         counts = {}
+        maxf = 0
 
         for r in range(len(s)):
             counts[s[r]] = 1 + counts.get(s[r], 0)
-            maxChar = max(counts.values())
-            if (r - l + 1) - maxChar <= k:
+            maxf = max(maxf, counts[s[r]])
+            if (r - l + 1) - maxf <= k:
                 maxL = max(maxL, r - l + 1)
             else:
                 counts[s[l]] -= 1
