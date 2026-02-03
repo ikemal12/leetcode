@@ -8,30 +8,19 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-
-        slow, fast = head, head.next
+        slow = fast = head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         
-        # split the list into halves
-        second = slow.next
-        slow.next = None
-        prev = None
-
-        while second:
-            tmp = second.next
-            second.next = prev
-            prev = second
-            second = tmp
-        
-        # merge the two lists
-        p1, p2 = head, prev
-        while p1 and p2:
-            tmp1, tmp2 = p1.next, p2.next
-            p1.next = p2
-            p2.next = tmp1
-            p1, p2 = tmp1, tmp2
+        prev, cur = None, slow
+        while cur:
+            cur.next, prev, cur = prev, cur, cur.next
+      
+        first, second = head, prev
+        while second.next:
+            first.next, first = second, first.next
+            second.next, second = first, second.next
 
 
 
