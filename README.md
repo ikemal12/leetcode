@@ -111,6 +111,7 @@ My leetcode solutions
 | [1446-consecutive-characters](https://github.com/ikemal12/leetcode/tree/master/1446-consecutive-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3340-check-balanced-string](https://github.com/ikemal12/leetcode/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
