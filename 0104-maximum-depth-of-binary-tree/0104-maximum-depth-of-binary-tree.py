@@ -7,6 +7,19 @@
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         if not root: return 0
+        stack = [(1, root)]
+        depth = 0
+
+        while stack:
+            level, root = stack.pop()
+            if root:
+                depth = max(depth, level)
+                stack.append((level + 1, root.left))
+                stack.append((level + 1, root.right))
+        return depth
+        
+        """
+        if not root: return 0
         q = deque([root])
         depth = 0
         while q:
@@ -19,7 +32,7 @@ class Solution:
             depth += 1
         return depth
 
-        [9, 15]
+        [9, 15]"""
 
 
         """
