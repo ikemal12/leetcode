@@ -36,6 +36,7 @@ My leetcode solutions
 | [0271-encode-and-decode-strings](https://github.com/ikemal12/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/ikemal12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ikemal12/leetcode/tree/master/0739-daily-temperatures) |
@@ -72,6 +73,7 @@ My leetcode solutions
 | [0409-longest-palindrome](https://github.com/ikemal12/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ikemal12/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ikemal12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ikemal12/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikemal12/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -124,6 +126,7 @@ My leetcode solutions
 | [0225-implement-stack-using-queues](https://github.com/ikemal12/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ikemal12/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ikemal12/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/ikemal12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ikemal12/leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
@@ -372,6 +375,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ikemal12/leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ikemal12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ikemal12/leetcode/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
 |  |
