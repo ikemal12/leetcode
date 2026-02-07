@@ -235,6 +235,7 @@ My leetcode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ikemal12/leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -302,6 +303,7 @@ My leetcode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ikemal12/leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -388,6 +390,7 @@ My leetcode solutions
 | [0501-find-mode-in-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
