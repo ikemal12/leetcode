@@ -215,6 +215,7 @@ My leetcode solutions
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Tree
 |  |
@@ -228,6 +229,7 @@ My leetcode solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ikemal12/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikemal12/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -255,6 +257,7 @@ My leetcode solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ikemal12/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikemal12/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -299,6 +302,7 @@ My leetcode solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ikemal12/leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikemal12/leetcode/tree/master/0199-binary-tree-right-side-view) |
