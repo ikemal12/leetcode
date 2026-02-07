@@ -11,6 +11,30 @@
 #         self.right = right
 class Solution:
     def sortedListToBST(self, head: Optional[ListNode]) -> Optional[TreeNode]:
+        size = self.findSize(head)
+        def convert(l, r):
+            nonlocal head
+            if l > r:
+                return None
+            mid = (l + r) // 2
+            left = convert(l, mid - 1)
+            node = TreeNode(head.val)
+            node.left = left
+            head = head.next
+            node.right = convert(mid+1, r)
+            return node
+        return convert(0, size - 1)
+    
+    def findSize(self, head):
+        ptr = head
+        c = 0
+        while ptr:
+            ptr = ptr.next
+            c += 1
+        return c
+
+
+        """
         if not head: return None
         prev, slow, fast = None, head, head
         while fast and fast.next:
@@ -27,5 +51,5 @@ class Solution:
         root = TreeNode(slow.val)
         root.left = self.sortedListToBST(head)
         root.right = self.sortedListToBST(slow.next)
-        return root
+        return root"""
         
