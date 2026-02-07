@@ -11,15 +11,15 @@ class Solution:
         res = []
 
         while q:
-            level = []
+            rightSide = None
             for _ in range(len(q)):
                 node = q.popleft()
-                level.append(node.val)
+                rightSide = node.val
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            res.append(level[-1])
+            res.append(rightSide)
         return res
                 
 
