@@ -6,6 +6,29 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
+        q = deque([(root, float("-inf"))])
+        good_nodes = 0
+        while q:
+            node, curMax = q.popleft()
+            if node.val >= curMax:
+                good_nodes += 1
+            if node.left:
+                q.append((node.left, max(node.val, curMax)))
+            if node.right:
+                q.append((node.right, max(node.val, curMax)))
+        return good_nodes
+
+
+
+
+
+
+
+
+
+
+
+        """
         stack = [(root, float("-inf"))]
         good_nodes = 0
         while stack:
@@ -16,7 +39,7 @@ class Solution:
                 stack.append((node.left, max(node.val, curMax)))
             if node.right:
                 stack.append((node.right, max(node.val, curMax)))
-        return good_nodes
+        return good_nodes"""
 
         """
         def dfs(node, curMax):
