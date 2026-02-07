@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def findMode(self, root: Optional[TreeNode]) -> List[int]:
-        prev, curCount, maxCount, modes = root.val, 0, 0, []
+        prev, curCount, maxCount, modes = None, 0, 0, []
         def inorder(node):
             nonlocal prev, curCount, maxCount, modes
             if not node: return
