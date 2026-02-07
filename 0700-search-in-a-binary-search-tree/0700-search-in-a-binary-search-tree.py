@@ -6,6 +6,10 @@
 #         self.right = right
 class Solution:
     def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+        while root and root.val != val:
+            root = root.left if val < root.val else root.right
+        return root
+        """
         stack = [root]
         while stack:
             node = stack.pop()
@@ -16,7 +20,7 @@ class Solution:
                 stack.append(node.left)
             elif val > node.val and node.right:
                 stack.append(node.right)
-        return None
+        return None"""
 
         """
         q = deque([root])
