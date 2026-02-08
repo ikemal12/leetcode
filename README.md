@@ -43,6 +43,7 @@ My leetcode solutions
 | [0417-pacific-atlantic-water-flow](https://github.com/ikemal12/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ikemal12/leetcode/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/ikemal12/leetcode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/ikemal12/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
@@ -224,6 +225,7 @@ My leetcode solutions
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/ikemal12/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Tree
 |  |
@@ -306,6 +308,7 @@ My leetcode solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ikemal12/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ikemal12/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ikemal12/leetcode/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
@@ -384,6 +387,7 @@ My leetcode solutions
 | [0286-walls-and-gates](https://github.com/ikemal12/leetcode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ikemal12/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ikemal12/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ikemal12/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
