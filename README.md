@@ -43,6 +43,7 @@ My leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ikemal12/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ikemal12/leetcode/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/ikemal12/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/ikemal12/leetcode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/ikemal12/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
