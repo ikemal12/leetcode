@@ -4,11 +4,11 @@ class Solution:
         ROWS, COLS = len(grid), len(grid[0])
         visit = set()
 
-        def bfs(i, j):
-            q = collections.deque([(i, j)])
-            visit.add((i, j))
+        def bfs(r, c):
+            q = collections.deque([(r, c)])
+            visit.add((r, c))
             while q:
-                r, c = q.popleft()
+                r, c = q.pop()
                 dirs = [[1, 0], [-1, 0], [0, 1], [0, -1]]
                 for dr, dc in dirs:
                     row, col = r + dr, c + dc
