@@ -56,6 +56,7 @@ My leetcode solutions
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1470-shuffle-the-array](https://github.com/ikemal12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ikemal12/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikemal12/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -314,6 +315,7 @@ My leetcode solutions
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -391,6 +393,7 @@ My leetcode solutions
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 ## Interactive
 |  |
