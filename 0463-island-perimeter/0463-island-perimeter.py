@@ -19,7 +19,7 @@ class Solution:
         perimeter = 0
         for r in range(ROWS):
             for c in range(COLS):
-                if (r, c) not in seen and grid[r][c] == 1:
+                if grid[r][c] == 1:
                     dfs(r, c)
         return perimeter
             
