@@ -4,29 +4,28 @@ class Solution:
         Do not return anything, modify rooms in-place instead.
         """
         ROWS, COLS = len(rooms), len(rooms[0])
+        q = collections.deque()
         visit = set()
 
-        def bfs(r, c):
-            q = collections.deque([r, c])
-            nearestGate = 0
-            while q:
-                r, c = q.popleft()
-                if r not in range(ROWS) or c not in range(COLS) or rooms[r][c] == -1:
-                    return
-                if rooms[r][c] == 0:
-                    return nearestGate
-                nearestGate += 1
-                visit.add((r, c))
-                dfs(r + 1, c)
-                dfs(r - 1, c)
-                dfs(r, c + 1)
-                dfs(r, c - 1)
-
-        
         for r in range(ROWS):
             for c in range(COLS):
-                if (r, c) not in visit and rooms[r][c] == float("-inf"):
-                    bfs(r, c)
+                if rooms[r][c] == 0:
+                    q.append((r, c))
+                    #visit.add((r, c))
+
+        level = 1
+        while q:
+            for i in range(len(q)):
+                r, c = q.popleft()
+                directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
+                for dr, dc in directions:
+                    row, col = r + dr, c + dc
+                    if row in range(ROWS) and col in range(COLS) and (row, col) not in visit and rooms[row][col] == 2**31 - 1:
+                        rooms[row][col] = level
+                        q.append((row, col))
+                        visit.add((row, col))
+            level += 1
+        
 
 
 
@@ -39,7 +38,7 @@ class Solution:
 
 
 
-        ROWS, COLS = len(rooms), len(rooms[0])
+        """ROWS, COLS = len(rooms), len(rooms[0])
         visit = set()
         q = deque()
 
@@ -65,4 +64,4 @@ class Solution:
                 addRoom(r - 1, c)
                 addRoom(r, c + 1)
                 addRoom(r, c - 1)
-            dist += 1
+            dist += 1"""
