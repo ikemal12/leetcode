@@ -40,6 +40,7 @@ My leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/ikemal12/leetcode/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/ikemal12/leetcode/tree/master/0739-daily-temperatures) |
@@ -278,6 +279,7 @@ My leetcode solutions
 | [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ikemal12/leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
@@ -294,6 +296,7 @@ My leetcode solutions
 | [0226-invert-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -367,6 +370,7 @@ My leetcode solutions
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ikemal12/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -513,4 +517,5 @@ My leetcode solutions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ikemal12/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
