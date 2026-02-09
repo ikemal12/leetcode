@@ -67,6 +67,7 @@ My leetcode solutions
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikemal12/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3379-transformed-array](https://github.com/ikemal12/leetcode/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -516,6 +517,7 @@ My leetcode solutions
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/ikemal12/leetcode/tree/master/1929-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/ikemal12/leetcode/tree/master/3379-transformed-array) |
 ## Monotonic Stack
 |  |
 | ------- |
