@@ -1,10 +1,16 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
+        nums.sort()
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i-1]:
+                return nums[i]
+
+"""
         seen = set()
         for n in nums:
             if n in seen:
                 return n
-            seen.add(n)
+            seen.add(n)"""
 
 
 
@@ -17,7 +23,7 @@ class Solution:
 
 
 
-
+"""
 
         slow, fast = 0, 0
         while True:
@@ -33,6 +39,7 @@ class Solution:
             if slow == slow2:
                 return slow
 
+"""
 
 
 
@@ -43,8 +50,7 @@ class Solution:
 
 
 
-
-
+"""
 
         slow, fast = 0, 0
         while True:
@@ -59,3 +65,4 @@ class Solution:
             slow2 = nums[slow2]
             if slow == slow2:
                 return slow
+"""
