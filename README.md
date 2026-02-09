@@ -80,6 +80,7 @@ My leetcode solutions
 | [0128-longest-consecutive-sequence](https://github.com/ikemal12/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ikemal12/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ikemal12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ikemal12/leetcode/tree/master/0169-majority-element) |
@@ -214,6 +215,7 @@ My leetcode solutions
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ikemal12/leetcode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ikemal12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ikemal12/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ikemal12/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -462,6 +464,7 @@ My leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ikemal12/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ikemal12/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ikemal12/leetcode/tree/master/0232-implement-queue-using-stacks) |
@@ -608,4 +611,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ikemal12/leetcode/tree/master/0399-evaluate-division) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
