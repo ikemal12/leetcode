@@ -2,17 +2,13 @@ class Solution:
     def constructTransformedArray(self, nums: List[int]) -> List[int]:
         n = len(nums)
         res = [0] * n
-        for i in range(len(nums)):
+        for i in range(n):
             if nums[i] == 0:
-                res[i] = nums[i]
+                jump = i
             elif nums[i] > 0:
-                if i + nums[i] < n:
-                    res[i] = nums[i + nums[i]]
-                else:
-                    jump = ((i + nums[i]) % n) 
-                    res[i] = nums[jump]
+                jump = (i + nums[i]) % n
             else:
                 jump = (i - abs(nums[i])) % n
-                res[i] = nums[jump]
+            res[i] = nums[jump]
         return res
         
