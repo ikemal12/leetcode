@@ -81,6 +81,7 @@ My leetcode solutions
 | [0127-word-ladder](https://github.com/ikemal12/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ikemal12/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ikemal12/leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ikemal12/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ikemal12/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -219,6 +220,7 @@ My leetcode solutions
 | [0021-merge-two-sorted-lists](https://github.com/ikemal12/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ikemal12/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/ikemal12/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ikemal12/leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
