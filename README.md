@@ -56,6 +56,7 @@ My leetcode solutions
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikemal12/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
+| [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1470-shuffle-the-array](https://github.com/ikemal12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ikemal12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
@@ -304,6 +305,7 @@ My leetcode solutions
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ikemal12/leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -334,6 +336,7 @@ My leetcode solutions
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -414,6 +417,7 @@ My leetcode solutions
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -568,6 +572,7 @@ My leetcode solutions
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ikemal12/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
