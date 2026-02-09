@@ -66,6 +66,7 @@ My leetcode solutions
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikemal12/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/ikemal12/leetcode/tree/master/3379-transformed-array) |
 ## Hash Table
@@ -142,6 +143,7 @@ My leetcode solutions
 | [1446-consecutive-characters](https://github.com/ikemal12/leetcode/tree/master/1446-consecutive-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3340-check-balanced-string](https://github.com/ikemal12/leetcode/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
@@ -553,16 +555,19 @@ My leetcode solutions
 | [0459-repeated-substring-pattern](https://github.com/ikemal12/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/ikemal12/leetcode/tree/master/0796-rotate-string) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ikemal12/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ikemal12/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ikemal12/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ikemal12/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -625,4 +630,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
+## Rolling Hash
+|  |
+| ------- |
+| [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
