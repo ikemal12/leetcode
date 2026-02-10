@@ -1,10 +1,20 @@
 class Solution:
     def findFinalValue(self, nums: List[int], original: int) -> int:
+        s = set(nums)
+        while original in s:
+            original *= 2
+        return original
+
+
+
+
+        
+        """
         nums.sort()
         for num in nums:
             if num == original:
                 original *= 2
-        return original
+        return original"""
 
 
         """
