@@ -131,6 +131,7 @@ My leetcode solutions
 | [0344-reverse-string](https://github.com/ikemal12/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ikemal12/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ikemal12/leetcode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/ikemal12/leetcode/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/ikemal12/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ikemal12/leetcode/tree/master/0412-fizz-buzz) |
@@ -183,6 +184,7 @@ My leetcode solutions
 | [0234-palindrome-linked-list](https://github.com/ikemal12/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ikemal12/leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ikemal12/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ikemal12/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ikemal12/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -251,6 +253,7 @@ My leetcode solutions
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/ikemal12/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ikemal12/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ikemal12/leetcode/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0746-min-cost-climbing-stairs) |
