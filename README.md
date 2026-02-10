@@ -67,6 +67,7 @@ My leetcode solutions
 | [1480-running-sum-of-1d-array](https://github.com/ikemal12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/ikemal12/leetcode/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -114,6 +115,7 @@ My leetcode solutions
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -217,6 +219,7 @@ My leetcode solutions
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -569,6 +572,7 @@ My leetcode solutions
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/ikemal12/leetcode/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3379-transformed-array](https://github.com/ikemal12/leetcode/tree/master/3379-transformed-array) |
 ## Monotonic Stack
 |  |
