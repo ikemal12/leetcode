@@ -7,6 +7,21 @@
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root: return 0
+        def lheight(node):
+            if not node: return 0
+            return 1 + lheight(node.left)
+        def rheight(node):
+            if not node: return 0
+            return 1 + rheight(node.right)
+        
+        l, r = lheight(root), rheight(root)
+
+        if l > r:
+            return 1 + self.countNodes(root.left) + self.countNodes(root.right)
+        else:
+            return (2**l) - 1
+
+        """
         count = 0
         q = collections.deque([root])
         while q:
@@ -16,4 +31,4 @@ class Solution:
                 q.append(node.left)
             if node.right:
                 q.append(node.right)
-        return count
+        return count"""
