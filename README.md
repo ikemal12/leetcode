@@ -71,6 +71,7 @@ My leetcode solutions
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikemal12/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/ikemal12/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 | [3379-transformed-array](https://github.com/ikemal12/leetcode/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -115,6 +116,7 @@ My leetcode solutions
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3063-linked-list-frequency](https://github.com/ikemal12/leetcode/tree/master/3063-linked-list-frequency) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/ikemal12/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -450,6 +452,7 @@ My leetcode solutions
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3063-linked-list-frequency](https://github.com/ikemal12/leetcode/tree/master/3063-linked-list-frequency) |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/ikemal12/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -677,4 +680,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+## Enumeration
+|  |
+| ------- |
+| [3371-identify-the-largest-outlier-in-an-array](https://github.com/ikemal12/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
