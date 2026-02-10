@@ -62,6 +62,7 @@ My leetcode solutions
 | [1020-number-of-enclaves](https://github.com/ikemal12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/ikemal12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ikemal12/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
@@ -111,6 +112,7 @@ My leetcode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikemal12/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
@@ -199,6 +201,7 @@ My leetcode solutions
 | [0567-permutation-in-string](https://github.com/ikemal12/leetcode/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/ikemal12/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +216,7 @@ My leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -228,6 +232,7 @@ My leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ikemal12/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
