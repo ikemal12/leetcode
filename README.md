@@ -301,6 +301,7 @@ My leetcode solutions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ikemal12/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ikemal12/leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -345,6 +346,7 @@ My leetcode solutions
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ikemal12/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/ikemal12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -381,6 +383,7 @@ My leetcode solutions
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ikemal12/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ikemal12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -422,6 +425,7 @@ My leetcode solutions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ikemal12/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ikemal12/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1644-lowest-common-ancestor-of-a-binary-tree-ii](https://github.com/ikemal12/leetcode/tree/master/1644-lowest-common-ancestor-of-a-binary-tree-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/ikemal12/leetcode/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -535,6 +539,7 @@ My leetcode solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ikemal12/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ikemal12/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Bit Manipulation
 |  |
 | ------- |
