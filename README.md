@@ -71,6 +71,7 @@ My leetcode solutions
 | [1765-map-of-highest-peak](https://github.com/ikemal12/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1929-concatenation-of-array](https://github.com/ikemal12/leetcode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ikemal12/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -228,6 +229,7 @@ My leetcode solutions
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/ikemal12/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Binary Search
 |  |
 | ------- |
