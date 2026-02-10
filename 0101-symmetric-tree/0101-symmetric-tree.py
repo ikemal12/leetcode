@@ -12,4 +12,4 @@ class Solution:
             if not p or not q:
                 return False
             return (p.val == q.val) and dfs(p.right, q.left) and dfs(p.left, q.right)
-        return dfs(root, root)
+        return dfs(root.left, root.right)
