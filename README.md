@@ -5,6 +5,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikemal12/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ikemal12/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ikemal12/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ikemal12/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ikemal12/leetcode/tree/master/0015-3sum) |
@@ -246,6 +247,7 @@ My leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ikemal12/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ikemal12/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ikemal12/leetcode/tree/master/0069-sqrtx) |
@@ -478,6 +480,7 @@ My leetcode solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ikemal12/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
