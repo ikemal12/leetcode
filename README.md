@@ -24,6 +24,7 @@ My leetcode solutions
 | [0074-search-a-2d-matrix](https://github.com/ikemal12/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ikemal12/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ikemal12/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ikemal12/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ikemal12/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -141,6 +142,7 @@ My leetcode solutions
 | [0049-group-anagrams](https://github.com/ikemal12/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ikemal12/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ikemal12/leetcode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ikemal12/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ikemal12/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ikemal12/leetcode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -334,6 +336,7 @@ My leetcode solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ikemal12/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ikemal12/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ikemal12/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ikemal12/leetcode/tree/master/0100-same-tree) |
@@ -490,6 +493,7 @@ My leetcode solutions
 | [0054-spiral-matrix](https://github.com/ikemal12/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/ikemal12/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ikemal12/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ikemal12/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ikemal12/leetcode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/ikemal12/leetcode/tree/master/0286-walls-and-gates) |
@@ -623,6 +627,7 @@ My leetcode solutions
 | [0040-combination-sum-ii](https://github.com/ikemal12/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ikemal12/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ikemal12/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ikemal12/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ikemal12/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/ikemal12/leetcode/tree/master/0216-combination-sum-iii) |
 | [0489-robot-room-cleaner](https://github.com/ikemal12/leetcode/tree/master/0489-robot-room-cleaner) |
