@@ -79,6 +79,7 @@ My leetcode solutions
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ikemal12/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
+| [2460-apply-operations-to-an-array](https://github.com/ikemal12/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -219,6 +220,7 @@ My leetcode solutions
 | [0905-sort-array-by-parity](https://github.com/ikemal12/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ikemal12/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2460-apply-operations-to-an-array](https://github.com/ikemal12/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -599,6 +601,7 @@ My leetcode solutions
 | [1603-design-parking-system](https://github.com/ikemal12/leetcode/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/ikemal12/leetcode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2460-apply-operations-to-an-array](https://github.com/ikemal12/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3379-transformed-array](https://github.com/ikemal12/leetcode/tree/master/3379-transformed-array) |
 ## Monotonic Stack
 |  |
