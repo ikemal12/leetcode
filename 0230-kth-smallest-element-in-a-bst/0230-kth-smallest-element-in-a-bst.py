@@ -10,6 +10,17 @@ class Solution:
             return inorder(cur.left) + [cur.val] + inorder(cur.right) if cur else []
         return inorder(root)[k - 1]
 
+
+
+
+
+
+
+
+
+
+       
+
         """
         stack = []
         cur = root
