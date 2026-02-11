@@ -375,6 +375,7 @@ My leetcode solutions
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ikemal12/leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ikemal12/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1020-number-of-enclaves](https://github.com/ikemal12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -412,6 +413,7 @@ My leetcode solutions
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ikemal12/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ikemal12/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/ikemal12/leetcode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ikemal12/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/ikemal12/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ikemal12/leetcode/tree/master/1020-number-of-enclaves) |
@@ -606,6 +608,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/ikemal12/leetcode/tree/master/0743-network-delay-time) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 ## Sliding Window
 |  |
@@ -700,6 +703,7 @@ My leetcode solutions
 | [0399-evaluate-division](https://github.com/ikemal12/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ikemal12/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/ikemal12/leetcode/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -709,6 +713,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ikemal12/leetcode/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/ikemal12/leetcode/tree/master/0743-network-delay-time) |
 ## Doubly-Linked List
 |  |
 | ------- |
