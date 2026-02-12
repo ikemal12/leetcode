@@ -2,17 +2,15 @@ class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         res = {}
         for s in strs:
-            counts = [0] * 26
+            count = [0] * 26
             for c in s:
-                counts[ord(c) - ord("a")] += 1
-
-            counts = tuple(counts)
+                count[ord(c) - ord("a")] += 1
             
-            if counts in res:
-                res[counts].append(s)
+            count = tuple(count)
+            if count in res:
+                res[count].append(s)
             else:
-                res[counts] = [s]
-        
+                res[count] = [s]
         return list(res.values())
             
 
