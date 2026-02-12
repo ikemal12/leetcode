@@ -64,6 +64,7 @@ My leetcode solutions
 | [0739-daily-temperatures](https://github.com/ikemal12/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikemal12/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ikemal12/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0896-monotonic-array](https://github.com/ikemal12/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/ikemal12/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/ikemal12/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -270,6 +271,7 @@ My leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0441-arranging-coins](https://github.com/ikemal12/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ikemal12/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
