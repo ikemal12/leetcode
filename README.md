@@ -77,6 +77,7 @@ My leetcode solutions
 | [1020-number-of-enclaves](https://github.com/ikemal12/leetcode/tree/master/1020-number-of-enclaves) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1268-search-suggestions-system](https://github.com/ikemal12/leetcode/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1429-first-unique-number](https://github.com/ikemal12/leetcode/tree/master/1429-first-unique-number) |
 | [1470-shuffle-the-array](https://github.com/ikemal12/leetcode/tree/master/1470-shuffle-the-array) |
@@ -187,6 +188,7 @@ My leetcode solutions
 | [0937-reorder-data-in-log-files](https://github.com/ikemal12/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0953-verifying-an-alien-dictionary](https://github.com/ikemal12/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1041-robot-bounded-in-circle](https://github.com/ikemal12/leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1268-search-suggestions-system](https://github.com/ikemal12/leetcode/tree/master/1268-search-suggestions-system) |
 | [1446-consecutive-characters](https://github.com/ikemal12/leetcode/tree/master/1446-consecutive-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/ikemal12/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -258,6 +260,7 @@ My leetcode solutions
 | [0937-reorder-data-in-log-files](https://github.com/ikemal12/leetcode/tree/master/0937-reorder-data-in-log-files) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ikemal12/leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
+| [1268-search-suggestions-system](https://github.com/ikemal12/leetcode/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/ikemal12/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -278,6 +281,7 @@ My leetcode solutions
 | [0441-arranging-coins](https://github.com/ikemal12/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/ikemal12/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ikemal12/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1268-search-suggestions-system](https://github.com/ikemal12/leetcode/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
@@ -660,6 +664,7 @@ My leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/ikemal12/leetcode/tree/master/0743-network-delay-time) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
+| [1268-search-suggestions-system](https://github.com/ikemal12/leetcode/tree/master/1268-search-suggestions-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -704,6 +709,7 @@ My leetcode solutions
 | [0139-word-break](https://github.com/ikemal12/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ikemal12/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ikemal12/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1268-search-suggestions-system](https://github.com/ikemal12/leetcode/tree/master/1268-search-suggestions-system) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
