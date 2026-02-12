@@ -34,6 +34,7 @@ My leetcode solutions
 | [0128-longest-consecutive-sequence](https://github.com/ikemal12/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ikemal12/leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/ikemal12/leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/ikemal12/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ikemal12/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ikemal12/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0163-missing-ranges](https://github.com/ikemal12/leetcode/tree/master/0163-missing-ranges) |
@@ -106,6 +107,7 @@ My leetcode solutions
 | [0128-longest-consecutive-sequence](https://github.com/ikemal12/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ikemal12/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/ikemal12/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ikemal12/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ikemal12/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ikemal12/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ikemal12/leetcode/tree/master/0146-lru-cache) |
@@ -157,6 +159,7 @@ My leetcode solutions
 | [0079-word-search](https://github.com/ikemal12/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ikemal12/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ikemal12/leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/ikemal12/leetcode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ikemal12/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/ikemal12/leetcode/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ikemal12/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -311,6 +314,7 @@ My leetcode solutions
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikemal12/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikemal12/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/ikemal12/leetcode/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/ikemal12/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/ikemal12/leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/ikemal12/leetcode/tree/master/0542-01-matrix) |
@@ -577,6 +581,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ikemal12/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ikemal12/leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/ikemal12/leetcode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
@@ -693,6 +698,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ikemal12/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ikemal12/leetcode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ikemal12/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ikemal12/leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
