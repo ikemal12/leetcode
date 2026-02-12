@@ -50,6 +50,7 @@ My leetcode solutions
 | [0283-move-zeroes](https://github.com/ikemal12/leetcode/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/ikemal12/leetcode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/ikemal12/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0332-reconstruct-itinerary](https://github.com/ikemal12/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/ikemal12/leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ikemal12/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -159,6 +160,7 @@ My leetcode solutions
 | [0271-encode-and-decode-strings](https://github.com/ikemal12/leetcode/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/ikemal12/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/ikemal12/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/ikemal12/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/ikemal12/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ikemal12/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -237,6 +239,7 @@ My leetcode solutions
 | [0242-valid-anagram](https://github.com/ikemal12/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ikemal12/leetcode/tree/master/0268-missing-number) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ikemal12/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
+| [0332-reconstruct-itinerary](https://github.com/ikemal12/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ikemal12/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ikemal12/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -376,6 +379,7 @@ My leetcode solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ikemal12/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/ikemal12/leetcode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ikemal12/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/ikemal12/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/ikemal12/leetcode/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ikemal12/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/ikemal12/leetcode/tree/master/0463-island-perimeter) |
@@ -630,6 +634,7 @@ My leetcode solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/ikemal12/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/ikemal12/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/ikemal12/leetcode/tree/master/0743-network-delay-time) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
@@ -723,6 +728,7 @@ My leetcode solutions
 | [0210-course-schedule-ii](https://github.com/ikemal12/leetcode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/ikemal12/leetcode/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/ikemal12/leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/ikemal12/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/ikemal12/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/ikemal12/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ikemal12/leetcode/tree/master/0684-redundant-connection) |
@@ -753,4 +759,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [1429-first-unique-number](https://github.com/ikemal12/leetcode/tree/master/1429-first-unique-number) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/ikemal12/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
