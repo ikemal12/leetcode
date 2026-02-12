@@ -85,6 +85,7 @@ My leetcode solutions
 | [2404-most-frequent-even-element](https://github.com/ikemal12/leetcode/tree/master/2404-most-frequent-even-element) |
 | [2460-apply-operations-to-an-array](https://github.com/ikemal12/leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/ikemal12/leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ikemal12/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikemal12/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/ikemal12/leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/ikemal12/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -763,6 +764,7 @@ My leetcode solutions
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ikemal12/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3371-identify-the-largest-outlier-in-an-array](https://github.com/ikemal12/leetcode/tree/master/3371-identify-the-largest-outlier-in-an-array) |
 ## Data Stream
 |  |
