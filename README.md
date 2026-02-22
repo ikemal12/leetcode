@@ -79,6 +79,7 @@ My leetcode solutions
 | [1254-number-of-closed-islands](https://github.com/ikemal12/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1268-search-suggestions-system](https://github.com/ikemal12/leetcode/tree/master/1268-search-suggestions-system) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1426-counting-elements](https://github.com/ikemal12/leetcode/tree/master/1426-counting-elements) |
 | [1429-first-unique-number](https://github.com/ikemal12/leetcode/tree/master/1429-first-unique-number) |
 | [1470-shuffle-the-array](https://github.com/ikemal12/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ikemal12/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -138,6 +139,7 @@ My leetcode solutions
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ikemal12/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1086-high-five](https://github.com/ikemal12/leetcode/tree/master/1086-high-five) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ikemal12/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1426-counting-elements](https://github.com/ikemal12/leetcode/tree/master/1426-counting-elements) |
 | [1429-first-unique-number](https://github.com/ikemal12/leetcode/tree/master/1429-first-unique-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikemal12/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/ikemal12/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
